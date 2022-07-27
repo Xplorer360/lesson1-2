@@ -1,0 +1,76 @@
+.R{
+    background-color: black;
+    color: white;
+    padding: 7px 10px 7px 10px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.A{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 15px;
+    border: none;
+    border-radius: 13px;
+    
+}
+.S{
+    background-color: rgb(46,164,79);
+    padding: 8px 22px 8px 22px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.G{
+    background-color: rgb(121,82,179);
+    padding: 10px 20px 10px 20px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+.D{
+    background-color: white;
+    color:rgb(108,117,125) ;
+    border: white;
+    border: solid;
+    border-color: rgb(108,117,125);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px 10px 20px;
+    font-weight: 900;
+    border-radius: 5px;
+    border-width: 2px;
+
+}
+.Ap{
+    background-color: rgb(10,102,194);
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius:20px;
+}
+.Sa{
+    color: rgb(10,102,194);
+    border-color: rgb(10,102,194);
+    background-color: white;
+    border-radius:20px ;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px 10px 20px;
+    border: solid;
+    border-width: 2px;
+}
